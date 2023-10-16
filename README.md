@@ -1,17 +1,46 @@
 # Releases
 iOS 17 Major and Beta version releases updates
 
-| Version   | Build   | Release date | Release notes                                      |
-|-----------|---------|--------------|----------------------------------------------------|
-| 17.0      | 21A326  | -            | -                                                  |
-| 21A327    | -       | September 22, 2023 | Initial release for iPhone 15 and 15 Pro models   |
-| 21A329    | -       | September 18, 2023 | All models except iPhone 15 and 15 Pro          |
-| 21A331    | -       | -            | iPhone 15 and 15 Pro models only                   |
-| 17.0.1    | 21A340  | September 21, 2023 | Security content                                 |
-| 17.0.2    | 21A350  | -            | iPhone 15 and 15 Pro models only                   |
-| 21A351    | -       | September 26, 2023 | All models except iPhone 15 and 15 Pro          |
-| 17.0.3    | 21A360  | October 4, 2023 | Security content                                 |
-| 17.1 beta 3 | 21B5066a | October 10, 2023 | -     
+| Version   | Build   | Release date | Release notes                                      | Jailbreak Status     |
+|-----------|---------|--------------|----------------------------------------------------|---------------|
+| 17.0      | 21A326  | -            | -                                                  | [Jailbreak Online](https://zeejb.com) |
+| 21A327    | -       | September 22, 2023 | Initial release for iPhone 15 and 15 Pro models   | [Jailbreak Online](https://zeejb.com) |
+| 21A329    | -       | September 18, 2023 | All models except iPhone 15 and 15 Pro          | [Jailbreak Online](https://zeejb.com) |
+| 21A331    | -       | -            | iPhone 15 and 15 Pro models only                   | [Jailbreak Online](https://zeejb.com) |
+| 17.0.1    | 21A340  | September 21, 2023 | Security content                                 | [Jailbreak Online](https://zeejb.com) |
+| 17.0.2    | 21A350  | -            | iPhone 15 and 15 Pro models only                   | [Jailbreak Online](https://zeejb.com) |
+| 21A351    | -       | September 26, 2023 | All models except iPhone 15 and 15 Pro          | [Jailbreak Online](https://cobdy.com) |
+| 17.0.3    | 21A360  | October 4, 2023 | Security content                                 | [Jailbreak Online](https://kekuk.com) |
+| 17.1 beta 3 | 21B5066a | October 10, 2023 | -                                                | [Jailbreak Online](https://zeejb.com) |
+
+
+Learn More iOS 17 Jailbreak and possibilities: [iOS 17 Jailbreak Guithub](https://https://github.com/iOS17/Jailbreak)
+
+
+## iOS 17.1 Beta 3 - Here are the major changes and improvements:
+
+- Regulation Compliance Update for iPhone 12 in France: The update addresses an issue related to iPhone 12 emitting more RF radiation than permitted in France. This update adjusts the power emission based on specific testing protocols for users in France.
+
+- Battery Icon Update: The battery icon has been refined, making it appear more rounded, resolving the issue of its previous appearance.
+
+- Action Button Update for iPhone 15 Pro Models: The action button on iPhone 15 Pro models has been adjusted to be less reactive when in the user's pocket, utilizing proximity and motion sensors to delay activation.
+
+- Graphics Update in Watch App: The graphics for different watch faces in the Watch app have been updated, including those for the Ultra Series and Snoopy.
+
+- Bug Fixes: Various bug fixes have been implemented, including issues with power consumption on Apple Watches paired with different iOS versions, changes in graphics, and improvements in the regulation compliance for the iPhone 12 in France.
+
+- Performance and Heat Management: Overall, the performance appears to be smooth and fast, with the device remaining cool to the touch. Benchmarks indicate improved performance compared to previous versions.
+
+- Battery Life Analysis: The battery life analysis revealed some anomalies, suggesting that further optimization might be required to enhance battery performance.
+
+- Possible Future Updates: Based on the beta release cycle, it's anticipated that iOS 17.1 beta 4 or the Release Candidate might be launched soon, possibly followed by a public release of iOS 17.1.
+
+For more detailed and comprehensive information, it's advisable to refer to the official release notes provided by Apple.
+
+[iOS 17.1 beta 3 hidden Features](https://kekuk.com/ios-17-1-beta-3-released-major-changes-and-improvements/)
+
+
+
 
 The public release of iOS 17 was set to take place between September 13 and September 21, 2023, and the public beta was made available on July 12, 2023.
 
