@@ -1,6 +1,18 @@
 # Releases
 iOS 17 Major and Beta version releases updates
 
+| Version   | Build   | Release date | Release notes                                      |
+|-----------|---------|--------------|----------------------------------------------------|
+| 17.0      | 21A326  | -            | -                                                  |
+| 21A327    | -       | September 22, 2023 | Initial release for iPhone 15 and 15 Pro models   |
+| 21A329    | -       | September 18, 2023 | All models except iPhone 15 and 15 Pro          |
+| 21A331    | -       | -            | iPhone 15 and 15 Pro models only                   |
+| 17.0.1    | 21A340  | September 21, 2023 | Security content                                 |
+| 17.0.2    | 21A350  | -            | iPhone 15 and 15 Pro models only                   |
+| 21A351    | -       | September 26, 2023 | All models except iPhone 15 and 15 Pro          |
+| 17.0.3    | 21A360  | October 4, 2023 | Security content                                 |
+| 17.1 beta 3 | 21B5066a | October 10, 2023 | -     
+
 The public release of iOS 17 was set to take place between September 13 and September 21, 2023, and the public beta was made available on July 12, 2023.
 
 Features
